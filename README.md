@@ -1,4 +1,4 @@
-https://afternoon-savannah-45788.herokuapp.com/
+https://afternoon-savannah-45788.herokuapp.com/ or https://ryma-portfolio.netlify.com/
 
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
